@@ -564,7 +564,7 @@ footer h4{
   .grid-container :nth-child(8){
     grid-column: auto/span 2;
   }
-  .p-title{
+  .card-content span{
     line-height: 2.2rem;
   }
   /*contact*/
