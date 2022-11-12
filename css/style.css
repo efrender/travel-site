@@ -564,6 +564,9 @@ footer h4{
   .grid-container :nth-child(8){
     grid-column: auto/span 2;
   }
+  .p-title{
+    line-height: 2.2rem;
+  }
   /*contact*/
   .contact-form, .contact-form input[type="text"], input[type="password"], .contact-form p{
     width: 100%;
